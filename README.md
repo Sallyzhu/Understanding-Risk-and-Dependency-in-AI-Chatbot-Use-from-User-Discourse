@@ -2,9 +2,7 @@
 # User-Centered Analysis of AI-Related Psychological Risk
 
 This repository contains the code used in the paper  
-"Understanding Risk and Dependency in AI Chatbot Use from User Discourse“
-<img width="432" height="26" alt="image" src="https://github.com/user-attachments/assets/d4eabeb1-1ec4-4e19-9bdf-d18d565d0a18" />
-".
+"Understanding Risk and Dependency in AI Chatbot Use from User Discourse“.
 
 It supports a large-scale, user-centered analysis of AI-related psychological risk using Reddit discourse, combining LLM-assisted thematic analysis, emotion labeling, and visualization.
 
